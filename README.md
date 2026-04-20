@@ -1,0 +1,3 @@
+
+
+Linear search is the simplest searching technique used to find a particular element in a list or array. In this method, each element is checked one by one starting from the first position and moving sequentially until the desired element is found or the list ends. If the element is found, its position (index) is returned; otherwise, the search concludes that the element is not present. Linear search does not require the data to be sorted, which makes it easy to implement and useful for small or unsorted datasets. However, it is not efficient for large datasets because in the worst case it has to check every element, resulting in a time complexity of O(n)
